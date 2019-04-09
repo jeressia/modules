@@ -1,5 +1,5 @@
 const bookInfo = {
-    price: 24.99,
+    price: '$'+24.99,
     title: 'The Beyhive',
     image: './assets/book.jpg'
 }

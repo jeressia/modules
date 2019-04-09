@@ -1,4 +1,16 @@
 body {
-    background-color: rgb(46, 43, 50);
-    color: white;
+    background-color: #e1dfdf;
+    color: #2b2b2b;
+}
+
+.main-title {
+    text-align: center;
+}
+
+.bookImg {
+    max-height: 300px;
+}
+
+.btn {
+    width: 200px;
 }
